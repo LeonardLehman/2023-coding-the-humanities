@@ -1,0 +1,14 @@
+﻿Some self-contradictory statements are amusing; others are profoundly puzzling. A few paradoxes have called for major reconstructions of the foundations of logic and mathematics
+
+Frederic, the young protagonist of The Pirates of Penzance, has reached the age of 21 after passing only five birthdays. Several circumstances conspire to make this possible. Age is reckoned in elapsed time, whereas a birthday has to match the date of birth; and February 29 comes less frequently than once a year.
+
+Granted that Frederic’s situation is possible, wherein is it paradoxical? Merely in its initial air of absurdity. The likelihood that a man will be more than n years old on his nth birthday is as little as one to 1,460, or slightly better if we allow for seasonal trends; and this likelihood is so slight that we easily forget its existence.
+
+May we say in general, then, that a paradox is just any conclusion that at first sounds absurd but that has an argument to sustain it? In the end I think this account stands up pretty well. But it leaves much unsaid. The argument that sustains a paradox may expose the absurdity of a buried premise or of some preconception previously reckoned as central to physical theory, to mathematics or to the thinking process. Catastrophe may lurk, therefore, in the most innocent-seeming paradox. More than once in history the discovery of paradox has been the occasion for major reconstruction at the foundations of thought. For some decades, indeed, studies of the foundation of mathematics have been confounded and greatly stimulated by confrontation with two paradoxes, one propounded by Bertrand Russell in 1901 and the other by Kurt Gödel in 1931.
+
+As a first step onto this dangerous ground, let us consider another paradox: that of the village barber. This is not Russell’s great paradox of 1901, to which we shall come, but a lesser one that Russell attributed to an unnamed source in 1918. In a certain village there is a man, so the paradox runs, who is a barber; this barber shaves all and only those men in the village who do not shave themselves. Query: Does the barber shave himself?
+
+Any man in this village is shaved by the barber if and only if he is not shaved by himself. Therefore in particular the barber shaves himself if and only if he does not. We are in trouble if we say the barber shaves himself and we are in trouble if we say he does not.
+
+Now compare the two paradoxes. Frederic’s situation seemed absurd at first, but a simple argument sufficed to make us acquiesce in it for good. In the case of the barber, on the other hand, the conclusion is too absurd to acquiesce in at any time.
+
